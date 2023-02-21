@@ -14,7 +14,7 @@ export default function Home() {
                 </li>
             </ol>
             <article>
-                <h2>Welcome</h2>Hello, WEB!!
+                <h2>Welcome</h2>Hello, WEB 2!!
             </article>
             <ul>
                 <li>
